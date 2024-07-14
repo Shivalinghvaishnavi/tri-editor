@@ -5,8 +5,9 @@
 Here are some screenshots of the app:
 
 <p align="center">
-  <img src="./src/assets/tri-editor.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
-  <img src="./src/assets/tri-editor-light.png.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
+  <img src="./src/assets/tri-editor-light-default.png" alt="Tri editor Dark Theme" width="800" style="margin-right: 20px"/>
+  <img src="./src/assets/tri-editor.png" alt="Tri editor Dark Theme" width="400" style="margin-right: 20px"/>
+  <img src="./src/assets/tri-editor-light.png" alt="Tri editor Light Theme" width="400" style="margin-right: 20px"/>
 </p>
 
 # Getting Started with Create React App
