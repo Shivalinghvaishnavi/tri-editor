@@ -173,7 +173,7 @@ const Editor = ({
   <div className="editor">
     <div className="editor-body">
       <div className="editor-container">
-        <div className="editor-name">html</div>
+        <div className="editor-name">HTML</div>
         <textarea
           value={htmlCode}
           onChange={(e) => setHtmlCode(e.target.value)}
@@ -182,7 +182,7 @@ const Editor = ({
         ></textarea>
       </div>
       <div className="editor-container">
-        <div className="editor-name">css</div>
+        <div className="editor-name">CSS</div>
         <textarea
           value={cssCode}
           onChange={(e) => setCssCode(e.target.value)}
@@ -191,7 +191,7 @@ const Editor = ({
         ></textarea>
       </div>
       <div className="editor-container">
-        <div className="editor-name">js</div>
+        <div className="editor-name">JavaScript</div>
         <textarea
           value={jsCode}
           onChange={(e) => setJsCode(e.target.value)}
