@@ -1,3 +1,14 @@
+# Tri Editor App
+
+## Screenshots
+
+Here are some screenshots of the app:
+
+<p align="center">
+  <img src="./src/assets/tri-editor.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
+  <img src="./src/assets/tri-editor-light.png.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
